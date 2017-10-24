@@ -1,0 +1,23 @@
+Резюме
+======
+
+
+== Имеющиеся навыки:
+* разработка клиент-серверных приложений;
+* разработка экспертных систем продукционного типа и СБЗ (систем, базирующихся на знаниях) на основе фреймовой парадигмы;
+* работа с базами данных MS SQL и MySql, SQLite;
+* разработка сайтов (дизайн, верстка, логика), LAMP, PHP (Propel ORM), JavaScript, HTML, CSS;
+* программирование в среде Qt Creator на языке C++ (qt framework);
+* программирование в среде Microsoft Visual Studio 2005-2010 на языках C, C#;
+* программирование на языке Pascal, Lisp, Prolog;
+* программирование в MS Office (макросы VBA);
+* PL\SQL;
+* Java 8. JSF, Servlets, GWT, SmartGWT, JSP, JSF, Prime Faces, iBatis, Hibernate, основы Spring, maven.
+* Технический английский.
+* JIRA.
+* Mercurial, SVN.
+* NetBeans, Intellij Idea, QtCreator, Microsoft Visual Studio.
+* Glassfish, Tomcat.
+* JIRA
+Работал с продуктами Oracle: Report Builder, Discoverer
+
